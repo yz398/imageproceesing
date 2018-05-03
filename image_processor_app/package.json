@@ -1,0 +1,23 @@
+{
+  "name": "image_processor_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security",
+    "material-ui": "^0.20.0",
+    "png-to-jpeg": "^1.0.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-dropzone": "^4.2.9"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
